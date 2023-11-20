@@ -1,0 +1,23 @@
+[33mcommit 20b470ae4003dfc91b39b75c4215f0708f11c7da[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: kduferreira <ceduardoferreiraeng@gmail.com>
+Date:   Mon Nov 20 14:32:00 2023 -0300
+
+    smart-components
+    
+    Signed-off-by: kduferreira <ceduardoferreiraeng@gmail.com>
+
+[33mcommit 4dcedcfef51a6e759602b78d091377692063465e[m
+Author: kduferreira <ceduardoferreiraeng@gmail.com>
+Date:   Mon Nov 20 09:40:46 2023 -0300
+
+    created menu-bar and style for css
+    
+    Signed-off-by: kduferreira <ceduardoferreiraeng@gmail.com>
+
+[33mcommit 05674972501072b3e2956cfb3f27430f8c6c111c[m
+Author: kduferreira <ceduardoferreiraeng@gmail.com>
+Date:   Fri Nov 17 16:23:20 2023 -0300
+
+    first commit
+    
+    Signed-off-by: kduferreira <ceduardoferreiraeng@gmail.com>

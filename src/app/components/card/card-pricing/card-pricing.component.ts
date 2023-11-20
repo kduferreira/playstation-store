@@ -8,7 +8,7 @@ import { Component, Input } from '@angular/core';
 export class CardPricingComponent {
 @Input()
 gameType: string = 'DIGITAL PS4'
-@Input()gi
+@Input()
 	gamePrice: string = 'R$ 399,99'
 
 
